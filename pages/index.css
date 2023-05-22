@@ -166,4 +166,6 @@
 .recipes__video-caption {
   color: #fff;
   margin: 0;
+  display: flex;
+  justify-content: space-between;
 }
