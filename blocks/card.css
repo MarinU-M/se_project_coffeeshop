@@ -2,6 +2,7 @@
   list-style: none;
   width: 540px;
   padding: 0;
+  margin: 0;
 }
 
 .card__title {
@@ -9,7 +10,7 @@
   font-weight: bold;
   font-size: 20px;
   line-height: 30px;
-  margin: 0 auto 32px 0;
+  margin: 0;
 }
 
 .card__list-item {
@@ -18,6 +19,10 @@
   line-height: 20px;
   margin: 16px 0 0;
   display: flex;
+}
+
+.card__list-item:first-of-type {
+  margin: 0 auto 32px;
 }
 
 .card__list-divider {
