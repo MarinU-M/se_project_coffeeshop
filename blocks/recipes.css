@@ -35,6 +35,8 @@
   column-gap: 40px;
   width: 1000px;
   justify-content: space-between;
+  padding: 0;
+  list-style-type: none;
 }
 
 .recipes__iframe {
@@ -49,4 +51,8 @@
   margin: 0;
   display: flex;
   justify-content: space-between;
+  font-family: "Inter", Arial, sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
 }

@@ -24,6 +24,10 @@
 .footer__social-heading {
   margin: 0 0 20px;
   font-weight: bold;
+  font-family: "Inter" Arial sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
 }
 
 .footer__list {
@@ -37,6 +41,8 @@
 }
 
 .footer__social-link {
+  display: flex;
+  align-items: center;
   color: white;
   text-decoration: none;
   transition: color 0.5s linear 0.2s;

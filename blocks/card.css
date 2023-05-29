@@ -10,6 +10,11 @@
   font-weight: bold;
   font-size: 20px;
   line-height: 30px;
+  margin: 0 auto 32px 0;
+}
+
+.card__list {
+  padding: 0;
   margin: 0;
 }
 
@@ -19,13 +24,10 @@
   line-height: 20px;
   margin: 16px 0 0;
   display: flex;
-}
-
-.card__list-item:first-of-type {
-  margin: 0 auto 32px;
+  justify-content: space-between;
 }
 
 .card__list-divider {
   border-bottom: solid thin #838383;
-  flex-grow: 1;
+  flex-grow: 0.95;
 }
