@@ -28,12 +28,11 @@
 }
 
 .recipes__videos {
-  margin-bottom: 215px;
+  margin: 0 auto 215px;
   display: flex;
   align-self: center;
   flex-wrap: wrap;
   column-gap: 40px;
-  width: 1000px;
   justify-content: space-between;
   padding: 0;
   list-style-type: none;
