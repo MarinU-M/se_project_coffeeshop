@@ -11,6 +11,7 @@ This is the second project of the Web Development program at Practicum. It was c
 - A custom form
 - CSS animation and transform
 
-## Plan on improving the project
+## Deployed project
+Deployed page is [here](https://marinu-m.github.io/se_project_coffeeshop/)
 
-Add your ideas here :)
+![image](https://github.com/MarinU-M/se_project_coffeeshop/assets/133256866/2842fa8d-641b-482a-b6fc-63bf5540d0fb)
